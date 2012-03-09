@@ -13,7 +13,9 @@
 
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/css/1.4.0/bootstrap.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/css/1.4.0/bootstrap-responsive.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/1.4.0/docs.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/js/google-code-prettify/prettify.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -24,11 +26,11 @@
   -->
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target=".subnav" data-offset="50">
 
-    <div class="topbar">
-      <div class="fill">
-        <div class="container">
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container" style="width: auto;">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
@@ -41,9 +43,7 @@
 
     <div class="container">
 
-      <div class="content">
         {{ content }}
-      </div>
 
       <footer>
         <p>&copy; {{ site.author.name }} 2012 
@@ -55,5 +55,13 @@
     </div> <!-- /container -->
 
     {% include JB/analytics %}
+<script src="{{ ASSET_PATH }}/js/jquery.js"></script>
+	<script src="{{ ASSET_PATH }}/js/bootstrap-scrollspy.js"></script>
+<script src="{{ ASSET_PATH }}/js/bootstrap-dropdown.js"></script>
+
+
+	<script src="{{ ASSET_PATH }}/js/bootstrap-tooltip.js"></script>
+    <script src="{{ ASSET_PATH }}/js/application.js"></script>
+
   </body>
 </html>
