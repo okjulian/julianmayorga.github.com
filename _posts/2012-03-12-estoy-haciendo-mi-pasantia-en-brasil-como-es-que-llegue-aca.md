@@ -33,7 +33,7 @@ Mi pasantía tiene una duración de 5 meses, es en una empresa de software llama
 
 Ahora que tengo bien en claro cuáles fueron los pasos que me trajeron hasta adonde estoy ahora, me doy cuenta que es importante saber cómo llegué acá porque asi cuando termine mi práctica y vuelva para Mendoza, pueda tener bien en claro cuánto crecí, cuánto aprendí y cuántas personas cambiaron mi mundo en estos meses que pasé aquí.
 
-Entonces, después de escribir todo esto, mi pregunta es “¿Querés pasar el resto de tu vida vendiendo agua azucarada o querés tener una oportunidad para cambiar tu mundo?” Ahora ya sabés que la [oportunidad está ahi](http://www.aiesec.org.ar/mendoza/), sólo tenés que aprovecharla.
+Entonces, después de escribir todo esto, mi pregunta es “¿Querés pasar el resto de tu vida vendiendo agua azucarada o querés tener una oportunidad para cambiar tu mundo?” Por más que suene muy cliché, ahora ya sabés que la [oportunidad está ahi](http://www.aiesec.org.ar/mendoza/), sólo tenés que aprovecharla.
 
 ##Algunas fotos
 
