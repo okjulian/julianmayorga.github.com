@@ -29,8 +29,45 @@ Si hace un año alguien me preguntaba “¿Por qué hacer una pasantía por AIES
 
 Mi pasantía tiene una duración de 5 meses, es en una empresa de software llamada [System Processamentos](http://www.systempro.com.br) y [mi trabajo aquí](http://www.systempro.com.br/web/v2/site/index.php#info_mais/93) es sentar estándares, patrones e infraestructura para que la empresa comience a mudar sus sistemas de la tecnología que usan ahora a Java. Estoy supervisado todo el tiempo por un senior de la companía, y el se asegura que mi desarrollo profesional sea constante, personalmente estoy mas que satisfecho con todo lo que estoy aprendiendo aquí.
 
-#Conclusion
+#Conclusión
 
 Ahora que tengo bien en claro cuáles fueron los pasos que me trajeron hasta adonde estoy ahora, me doy cuenta que es importante saber cómo llegué acá porque asi cuando termine mi práctica y vuelva para Mendoza, pueda tener bien en claro cuánto crecí, cuánto aprendí y cuántas personas cambiaron mi mundo en estos meses que pasé aquí.
 
 Entonces, después de escribir todo esto, mi pregunta es “¿Querés pasar el resto de tu vida vendiendo agua azucarada o querés tener una oportunidad para cambiar tu mundo?” Ahora ya sabés que la [oportunidad está ahi](http://www.aiesec.org.ar/mendoza/), sólo tenés que aprovecharla.
+
+##Algunas fotos
+
+Obviamente no todo es trabajo cuando estás de intercambio, aqui hay algunas fotos de los lugares que conocí en estos meses.
+
+<div>
+      <ul class="thumbnails">
+        <li class="span3">
+          <a href="{{ ASSET_PATH }}img/floripa.jpg" class="thumbnail">
+            <img src="{{ ASSET_PATH }}img/floripa.jpg" alt="">
+	    <h4>Florianópolis</h4>
+	    <p>Con amigos de Mendoza en Praia Mole</p>
+          </a>
+        </li>
+        <li class="span3">
+          <a href="{{ ASSET_PATH }}img/foz_cara_tucan.jpg" class="thumbnail">
+            <img src="{{ ASSET_PATH }}img/foz_cara_tucan.jpg" alt="">
+	    <h4>Foz do Iguazú</h4>
+	    <p>Tratando de ganarle en nariz a un tucán</p>
+          </a>
+        </li>
+        <li class="span3">
+          <a href="{{ ASSET_PATH }}img/foz_represa.jpg" class="thumbnail">
+            <img src="{{ ASSET_PATH }}img/foz_represa.jpg" alt="">
+	    <h4>Foz do Iguazú</h4>
+	    <p>Me contaron un chiste antes de sacar la foto, por eso la risa</p>
+          </a>
+        </li>
+        <li class="span3">
+          <a href="{{ ASSET_PATH }}img/ita.jpg" class="thumbnail">
+            <img src="{{ ASSET_PATH }}img/ita.jpg" alt="">
+	    <h4>Itá</h4>
+	    <p>Con Marina y Joana en la represa de Itá, un día después de carnaval</p>
+          </a>
+        </li>
+      </ul>
+</div>
