@@ -3,7 +3,8 @@ layout: page
 ---
 {% include JB/setup %}
 
-<ul>
-{% assign pages_list = site.posts %}
-{% include JB/pages_list %}
-</ul>
+<div class="hero-unit">
+        <h1>{{ site.posts.first.title }}</h1>
+        <p>{{ site.posts.first.brief }}</p>
+        <p><a class="btn btn-primary btn-large" href="{{ site.posts.first.url }}">M&aacutes &raquo;</a></p>
+</div>
