@@ -27,8 +27,10 @@ Usage:
     {% if group == null or group == node.group %}
     	{% if page.url == node.url %}
     	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+	{{ node.brief }}
     	{% else %}
     	<li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+	{{ node.brief }}
     	{% endif %}
     {% endif %}
   {% endfor %}

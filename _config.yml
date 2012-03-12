@@ -24,7 +24,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://julianmayorga.com.ar
+production_url : http://www.julianmayorga.com.ar
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -69,8 +69,6 @@ JB :
   # Some JB helpers refer to these paths; change theme here if needed.
   #
   archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -97,7 +95,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-29896762-1'
     getclicky :
       site_id : 
 
@@ -107,7 +105,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : tweet
+    provider : like
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
