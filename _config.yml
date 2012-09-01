@@ -1,7 +1,7 @@
 #Estructura por default.
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: ["todo", "doing", "done"]
+exclude: ["todo", "doing", "done", "favicon.ico.old"]
 
 #Regenerar el sitio cuando se modifiquen los archivos
 auto: true
