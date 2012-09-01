@@ -1,0 +1,15 @@
+#Estructura por default.
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: ["todo", "doing", "done"]
+
+#Regenerar el sitio cuando se modifiquen los archivos
+auto: true
+
+production_url: http://www.julianmayorga.com.ar
+
+#Variables globales
+title: El Juli
+author:
+ name: Julian Mayorga
+ email: mayorga.julian@gmail.com
